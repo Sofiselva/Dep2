@@ -12,13 +12,13 @@ public class Demo2 {
 			  System.out.println("You are not eligible to vote");
 		  }
 		  
-		  
-		  
+		  else {
+		  System.out.println("You are Eligible to vote");
 		  
 		  }
 		  
 		
 		
-	}
+	}}
 
 
