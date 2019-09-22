@@ -11,7 +11,7 @@ public class Demo2 {
 			  
 			  System.out.println("You are not eligible to vote");
 		  }
-		  
+		  System.out.println("You are eligible to vote");
 		  
 		  
 		  
